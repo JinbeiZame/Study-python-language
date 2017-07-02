@@ -5,3 +5,5 @@ tuple_list_vice_versa การจัดรูปแบบสำหรับก�
 dictionary ทำการ insert,update,delete,display data in dictionary
 
 text-management รวบรวม compare text  use upper() ,lower() method,concat text,list and split word using split(),splitline() method
+
+find_word  รวบรวม การทำงานของ find,replace method
